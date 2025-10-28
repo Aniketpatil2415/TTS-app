@@ -1,0 +1,7 @@
+{
+  "name": "Content Creator's AI Toolkit",
+  "description": "An all-in-one AI-powered application for content creators, featuring a chat bot, text-to-speech with voice selection and download, an image generator, and a powerful script enhancer. All powered by Google's Gemini API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
